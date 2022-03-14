@@ -1,3 +1,11 @@
 h1, p {
   font-family: Lato;
 }
+
+body {
+  background-color: #282c34;
+  color: wheat;
+  padding: 40px;
+  font-family: Serif;
+  text-align: center;
+}

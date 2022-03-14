@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <div className="col-md-12 bg-dark py-2">
-      <nav className="navbar navbar-dark">
+    <div className="col-md-12 bg py-2">
+      <nav className="navbar navbar-dark" >
         <Link className="navbar-brand" to="/">
-          Voice Navigation
+          Brain React
         </Link>
 
         <ul className="nav ml-auto">
